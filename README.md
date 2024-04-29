@@ -21,11 +21,8 @@ Welcome to my GitHub profile! I'm passionate about all things data-related, from
 
 ## Connect with Me
 Let's connect and collaborate! Feel free to reach out:
-- 📧 Email: [your.email@example.com](mailto:kalyani.samoju3r@gmail.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/kalyani-samoju/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/Kalyanisamoju)
-
-## Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+- 📧 Email: [kalyani.samoju3r@gmail.com](mailto:kalyani.samoju3r@gmail.com)
+- 💼 LinkedIn: [Kalyani Samoju](https://www.linkedin.com/in/kalyani-samoju/)
+- 🐦 Twitter: [@Kalyanisamoju](https://twitter.com/Kalyanisamoju)
 
 Thanks for stopping by! 😊
