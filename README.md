@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there! 👋 I'm Kalyani Samoju, a Data Enthusiast 📊
 
-<!--
-**kalyani-samoju/kalyani-samoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about all things data-related, from analysis and visualization to machine learning and AI. My goal is to leverage data to derive meaningful insights and solve real-world problems.
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently exploring new techniques in data science and machine learning.
+- 💼 I'm actively seeking opportunities to apply my data skills in meaningful projects.
+- 🔭 I’m constantly learning and experimenting with new tools and technologies in the data ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Machine Learning**: Scikit-learn, TensorFlow, Keras, MLOps
+- **Generative AI**: OpenAI GPT, Transformers, Generative Adversarial Networks (GANs)
+- **Large Language Models (LLMs)**: BERT, GPT-3, T5, BART
+- **Big Data Technologies**: Apache Spark, Hadoop
+- **Data Wrangling**: Regular Expressions, Data Cleaning Techniques
+- **Database Management**: MySQL, SQLite, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Data Presentation**: Jupyter Notebooks, R Markdown, Tableau
+
+## Connect with Me
+Let's connect and collaborate! Feel free to reach out:
+- 📧 Email: [your.email@example.com](mailto:kalyani.samoju3r@gmail.com)
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/kalyani-samoju/)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/Kalyanisamoju)
+
+## Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+
+Thanks for stopping by! 😊
